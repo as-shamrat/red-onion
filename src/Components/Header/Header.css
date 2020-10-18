@@ -1,0 +1,32 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  .navbar-brand>img {
+    padding: 7px 14px;
+    height: 50px;
+    margin-left: 100px;
+  }
+  .nav-right{
+      margin-left: auto;
+  }
+  .banner{
+      background-image: url('../../bannerbackground.png');
+      height: 500px;
+      width: 100%;
+      background-size: 100%;
+  }
+
+  nav{
+    background-color: white;
+
+}
+nav a{
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+nav a:hover{
+    color: red;
+}

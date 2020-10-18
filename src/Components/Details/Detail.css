@@ -1,0 +1,18 @@
+.box{
+    border: 1px solid gray;
+    border-radius: 20px;
+    width: 100px;
+    justify-content: center;
+    text-align: center;
+}
+.btn{
+    border: none;
+    border-radius: 30px;
+    background-color: white;
+    padding: 10px 50px;
+    font-weight: bolder;
+}
+.btn:active{
+    border: none;
+    background-color: white;
+}

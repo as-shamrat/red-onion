@@ -1,0 +1,14 @@
+.login{
+    background-image: url('../../bannerbackground.png');
+    height: 600px;
+    text-align: center;
+    justify-content: center;
+}
+.form{
+    padding: 100px 100px;
+    width: 40%;
+}
+.form img{
+    margin-bottom: 30px;
+    width: 70%;
+}

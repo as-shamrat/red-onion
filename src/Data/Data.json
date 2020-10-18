@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "price": "10.50",
+        "picture": "https://i.imgur.com/3yXtu02.png",
+        "item": "Kari Barron",
+        "description": "Exercitation incididunt do minim sunt mollit do cillum excepteur laborum nostrud velit. Fugiat eu in id fugiat anim aliquip laboris proident laboris. Eiusmod nulla exercitation labore elit nulla ut esse proident laborum minim anim in. Incididunt ipsum dolore quis officia. Fugiat tempor culpa enim nostrud. Dolore excepteur ut aliqua amet veniam. Id occaecat aute incididunt sit ullamco Lorem fugiat excepteur commodo proident.\r\n",
+        "category": "LUNCH"
+  },
+    {
+        "id": 2,
+        "price": "16.41",
+        "picture": "https://i.imgur.com/PU3VyOk.png",
+        "item": "Cotton Strickland",
+        "description": "Nisi reprehenderit exercitation laboris nisi velit aute consequat consectetur veniam aute est fugiat. Magna enim voluptate consequat ullamco consequat excepteur cillum elit et nisi. Culpa laboris duis commodo duis nostrud excepteur adipisicing fugiat ad sit officia anim anim. Labore ex et ad est aliquip dolore sint id mollit cillum fugiat laborum fugiat sunt. Excepteur et tempor duis aute occaecat est ea qui amet non commodo pariatur anim nulla.\r\n",
+        "category": "LUNCH"
+  },
+    {
+        "id": 3,
+        "price": "16.16",
+        "picture": "https://i.imgur.com/ZjZFB3m.png",
+        "item": "Koch Steele",
+        "description": "Cillum adipisicing mollit elit labore ipsum quis esse amet ullamco in do commodo. Deserunt sit esse ut laborum occaecat dolor ut esse voluptate laborum excepteur. Lorem deserunt voluptate quis ex aliquip. Nostrud veniam magna eiusmod excepteur do proident velit deserunt incididunt sint proident amet exercitation nostrud. Id minim excepteur esse voluptate. Eiusmod officia aliqua anim consectetur excepteur culpa officia aliquip commodo. Proident dolor Lorem sint sit labore in.\r\n",
+        "category": "LUNCH"
+  },
+    {
+        "id": 4,
+        "price": "14.02",
+        "picture": "https://i.imgur.com/NcHTTeW.png",
+        "item": "Walls Madden",
+        "description": "Irure sunt nisi irure officia ipsum voluptate. Id amet nostrud cillum velit elit ut nisi cillum. Ipsum minim veniam ad esse qui veniam fugiat consectetur. Enim id aute pariatur enim magna reprehenderit commodo aliquip aliqua dolore quis qui. Do voluptate aliquip do pariatur duis consectetur Lorem dolore nisi.\r\n",
+        "category": "LUNCH"
+  },
+    {
+        "id": 5,
+        "price": "10.40",
+        "picture": "https://i.imgur.com/ReaJSL6.png",
+        "item": "Stacey Kane",
+        "description": "Nisi cupidatat qui enim dolore sint reprehenderit est pariatur duis ullamco sint enim. Veniam in excepteur in dolor laboris labore eu anim qui aliqua culpa ullamco ex. Cillum magna ut duis eiusmod commodo mollit mollit reprehenderit ut incididunt amet eiusmod laboris.\r\n",
+        "category": "LUNCH"
+  },
+    {
+        "id": 6,
+        "price": "12.89",
+        "picture": "https://i.imgur.com/wgqmjwA.png",
+        "item": "Gilliam Fitzgerald",
+        "description": "Do magna consectetur veniam ipsum veniam fugiat. Do sunt reprehenderit proident sunt. Ad magna nostrud reprehenderit nisi mollit et laboris dolore sit aliqua. Occaecat mollit est reprehenderit id amet anim consectetur veniam. Laborum est consectetur esse cupidatat. Ut nostrud labore sunt consectetur Lorem esse ea et velit esse voluptate.\r\n",
+        "category": "LUNCH"
+  },
+    {
+        "id": 7,
+        "price": "11.19",
+        "picture": "https://i.imgur.com/DrqzM93.png",
+        "item": "Molina Blake",
+        "description": "Consectetur elit enim in proident laboris pariatur reprehenderit aliquip aliqua sunt occaecat fugiat consectetur. Dolor non esse minim voluptate amet culpa deserunt. Sunt occaecat aute ipsum incididunt ullamco est ex in eiusmod laboris elit et. Ullamco ad do eu enim esse ad minim sunt occaecat duis tempor veniam nisi. Deserunt in est esse ut magna ipsum ipsum. Reprehenderit sint excepteur dolore consequat veniam ex pariatur aute esse deserunt nulla veniam labore. Sint nulla et cillum nulla ut.\r\n",
+        "category": "DINNER"
+  },
+    {
+        "id": 8,
+        "price": "18.09",
+        "picture": "https://i.imgur.com/3JFgxcP.png",
+        "item": "Coleman Santos",
+        "description": "Id consectetur magna dolore ipsum quis quis. Nulla aliquip velit esse dolor. Mollit pariatur laboris veniam est proident sit consequat aute consectetur. Ipsum aute reprehenderit aute adipisicing. Et commodo velit nulla sunt pariatur ex ut enim commodo.\r\n",
+        "category": "DINNER"
+  },
+    {
+        "id": 9,
+        "price": "17.64",
+        "picture": "https://i.imgur.com/OhkxaLA.png",
+        "item": "Norton Dickerson",
+        "description": "Ut anim incididunt irure reprehenderit Lorem sit consequat nisi ad minim irure sit ad. Magna Lorem enim laboris qui. Officia sunt mollit adipisicing aliquip dolore nostrud.\r\n",
+        "category": "DINNER"
+  },
+    {
+        "id": 10,
+        "price": "19.28",
+        "picture": "https://i.imgur.com/PSxBItT.png",
+        "item": "Valencia Winters",
+        "description": "Ea labore Lorem exercitation magna ex velit ea fugiat esse incididunt ut consequat aliquip. Eu nostrud voluptate amet sint. Ullamco dolore anim sunt est reprehenderit. Laboris irure velit deserunt Lorem incididunt enim velit. Aliquip esse nulla eiusmod incididunt voluptate proident voluptate duis consectetur laborum occaecat. Labore enim ut id magna aliquip aute minim eu sit laborum cillum exercitation. Nulla ea mollit anim exercitation pariatur dolore sit pariatur pariatur nostrud dolor aliqua dolor.\r\n",
+        "category": "DINNER"
+  },
+    {
+        "id": 11,
+        "price": "10.43",
+        "picture": "https://i.imgur.com/duB5aSn.png",
+        "item": "Alta Reid",
+        "description": "Proident tempor quis aute quis proident labore non qui. Amet dolore mollit occaecat laboris magna laboris sunt fugiat reprehenderit ex. Sit eiusmod culpa laboris exercitation. Ex id excepteur nisi irure.\r\n",
+        "category": "DINNER"
+  },
+    {
+        "id": 12,
+        "price": "18.98",
+        "picture": "https://i.imgur.com/rB8hcFR.png",
+        "item": "Ericka Britt",
+        "description": "Nisi aliquip dolor consequat non non consectetur. Proident est pariatur aute excepteur aute. Labore ex reprehenderit enim in qui commodo ea sit labore. Sint eiusmod nostrud aliquip tempor laboris dolore dolor sunt. Ipsum sunt duis reprehenderit ex adipisicing est qui commodo consectetur esse. Irure proident qui cillum commodo do incididunt veniam aute enim ea. Lorem nulla culpa est sunt magna excepteur culpa irure veniam irure amet est.\r\n",
+        "category": "DINNER"
+  },
+    {
+        "id": 13,
+        "price": "14.07",
+        "picture": "https://i.imgur.com/GpnuBKA.png",
+        "item": "Vargas Fields",
+        "description": "Eu cupidatat adipisicing fugiat ea esse laborum id consequat. Dolore ullamco eiusmod elit dolore in in deserunt et et tempor cupidatat id. Deserunt consectetur nisi Lorem veniam mollit proident.\r\n",
+        "category": "BREAKFAST"
+  },
+    {
+        "id": 14,
+        "price": "15.79",
+        "picture": "https://i.imgur.com/2aS6Hny.png",
+        "item": "Deirdre Dunn",
+        "description": "Id et cillum in sunt mollit minim qui veniam nulla ea aliquip mollit ea. Deserunt aliquip consectetur aute nostrud do. Ut esse tempor laboris deserunt enim do qui qui amet pariatur ullamco excepteur. Aute labore et irure elit aute minim et cillum sit irure consequat Lorem. Amet culpa laboris ullamco id minim sint nulla Lorem sint est exercitation id. Aute quis ea officia exercitation aute sit qui tempor aliquip ullamco labore.\r\n",
+        "category": "BREAKFAST"
+  },
+    {
+        "id": 15,
+        "price": "17.05",
+        "picture": "https://i.imgur.com/XrUYcZ4.png",
+        "item": "Mendoza Lindsey",
+        "description": "Qui et veniam magna anim eiusmod irure. Eiusmod Lorem dolore cillum aliqua consectetur veniam cupidatat in dolore consequat velit. Irure officia reprehenderit adipisicing et sit sit. Nisi veniam adipisicing culpa dolor laborum velit id incididunt irure dolor dolore quis cupidatat. Consequat amet consectetur nisi esse veniam Lorem exercitation dolor amet consequat.\r\n",
+        "category": "BREAKFAST"
+  },
+    {
+        "id": 16,
+        "price": "11.91",
+        "picture": "https://i.imgur.com/a5P35TV.png",
+        "item": "Maxine Evans",
+        "description": "Sunt qui anim anim dolor consectetur amet nostrud elit aliqua laboris incididunt. Mollit fugiat ut eu enim enim occaecat nisi consequat. Ex aliqua sit ea esse ea tempor ea mollit. Ipsum enim deserunt consectetur culpa cillum do et sint incididunt id. Cupidatat duis officia officia qui. Ullamco id non veniam ea eu et voluptate do eiusmod id consequat tempor. Cillum eiusmod ipsum excepteur magna mollit velit aliqua amet dolore est consectetur incididunt cillum.\r\n",
+        "category": "BREAKFAST"
+  },
+    {
+        "id": 17,
+        "price": "12.02",
+        "picture": "https://i.imgur.com/ueKpe9Z.png",
+        "item": "Meadows Parker",
+        "description": "Sunt esse mollit fugiat labore magna sint laboris nostrud fugiat dolor. Lorem non dolor pariatur commodo anim id nisi consequat aliqua in mollit officia ullamco. Consectetur duis nisi dolore sunt qui aute laboris aliqua adipisicing sint aliqua occaecat mollit aute. Non nulla irure cillum enim et culpa anim.\r\n",
+        "category": "BREAKFAST"
+  },
+    {
+        "id": 18,
+        "price": "15.79",
+        "picture": "https://i.imgur.com/8AfHWNR.png",
+        "item": "Wilma Long",
+        "description": "Commodo duis sint officia nostrud id aliqua nulla officia id quis aliquip magna. Cillum tempor eu ex ea nostrud qui et do aute. Nulla commodo cillum ad cillum ut occaecat in anim excepteur. Dolor ut ut minim exercitation. Velit anim officia exercitation dolor non duis irure quis est excepteur adipisicing tempor tempor tempor. Laborum duis excepteur consequat ipsum qui in mollit ut dolore id.\r\n",
+        "category": "BREAKFAST"
+  }
+]
