@@ -1,5 +1,6 @@
 import React, { useContext } from 'react';
 import { Button, Col, Container, Form, Row } from 'react-bootstrap';
+import { useHistory } from 'react-router-dom';
 import { MyContext } from '../../App';
 import Cart from '../Cart/Cart';
 
@@ -22,6 +23,10 @@ const Shipment = () => {
         const allfood = [...withOutDecFood, decFood];
         setCart(allfood);
     }
+    let history = useHistory();
+    const placeOrder = () => {
+        history.push('/placeorder');
+    };
     return (
         <Container>
             <h1>{loggedInUser.displayName}</h1>
@@ -54,7 +59,7 @@ const Shipment = () => {
                     <p>from<span style={{ fontWeight: 'bolder', fontSize: '10px' }}>GULSHAN PLAZA RESTAURA GPR</span> </p>
                     <p>Arriving in 20-30 minutes</p>
                     {cart.map(fd => <Cart fd={fd} handleDec={handleDec} handleInc={handleInc}></Cart>)}
-                    <Button variant="danger" size="lg" block>
+                    <Button variant="danger" size="lg" block onClick={placeOrder}>
                         place order
   </Button>
                 </Col>

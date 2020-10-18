@@ -17,10 +17,11 @@ import { createContext } from 'react';
 import { useState } from 'react';
 import Shipment from './Components/Shipment/Shipment';
 import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
+import PlacedOrder from './Components/PlacedOrder/PlacedOrder';
 export const MyContext = createContext([]);
 function App() {
  const [cart, setCart] = useState([]);
- const [loggedInUser, setLoggedInUser] = useState({email: 'shdhf'});
+ const [loggedInUser, setLoggedInUser] = useState({});
  const allData = [cart, setCart, loggedInUser, setLoggedInUser];
   return (
     <MyContext.Provider value={[...allData]} className="App">
@@ -32,6 +33,9 @@ function App() {
           </PrivateRoute>
           <Route path="/login">
             <Login></Login>
+          </Route>
+          <Route path="/placeorder">
+            <PlacedOrder></PlacedOrder>
           </Route>
           <Route path="/food/:foodId">
             <Details></Details>
